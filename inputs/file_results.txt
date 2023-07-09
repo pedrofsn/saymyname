@@ -1,0 +1,8 @@
+Targets
+    Occurrences of 'import kotlinx.android.synthetic' in Project
+Found Occurrences in Project  (1 usage found)
+    Unclassified  (1 usage found)
+        NiceProject_Android.app.main  (1 usage found)
+            br.com.velantasistemas.pedrofsn.niceproject.presentation  (1 usages found)
+                PresentationFragment.kt  (1 usages found)
+                    22 import kotlinx.android.synthetic.presentation.fragment_presentation.textViewHelloName

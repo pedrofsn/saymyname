@@ -1,0 +1,24 @@
+{
+    "input": {
+        "codeownerPath": "/Users/pedrofsn/development/nice-project/.github/CODEOWNERS"
+    },
+    "package": {
+        "full": "br.com.velantasistemas.pedrofsn.niceproject",
+        "relative": "app/**/niceproject"
+    },
+    "template": {
+        "header": {
+            "start": "# ",
+            "separator": " - ",
+            "ignore": "#@"
+        }
+    },
+    "output": {
+        "codeowner": {
+            "filename": "codeowner.json"
+        },
+        "results": {
+            "filename": "results.txt"
+        }
+    }
+}
